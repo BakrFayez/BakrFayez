@@ -10,7 +10,9 @@ Security Researcher and Senior Backend Engineer. Founder of Nirous Labs and Ahla
 
 ## Tech stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=java,kotlin,py,js,ts,php,cs,cpp,c,html,css,nodejs,dotnet,mysql,sqlite,androidstudio,godot,blender,threejs,vite,git,github,linux,bash,vscode&perline=13)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,kotlin,py,js,ts,php,laravel,cs,cpp,c,cmake,html,css,nodejs,dotnet,mysql,sqlite,androidstudio,godot,blender,threejs,vite,git,github,linux,bash,regex,vscode&perline=14)](https://skillicons.dev)
+
+Reverse engineering: Ghidra · Frida · jadx · apktool · bundletool
 
 ## Featured
 
