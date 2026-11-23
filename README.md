@@ -1,3 +1,5 @@
+![Bakr Fayez](assets/banner.png)
+
 # Bakr Fayez
 
 Cybersecurity expert and senior backend engineer. Founder of Nirous Labs.
