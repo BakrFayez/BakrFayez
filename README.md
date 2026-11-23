@@ -14,17 +14,6 @@ Cybersecurity expert and senior backend engineer. Founder of Nirous Labs.
 
 **[NAR Skill](https://github.com/BakrFayez/nar-skill)**. An AI agent skill for Android APK reverse engineering, built for all apps and games.
 
-## Other work
-
-- HillRush Legends
-- Ghost Browser
-- Nirous Downloader
-- APKLab
-- Nirous Download Manager (NDM)
-- APEX DRIVE: EGYPT
-- Sweet Quest: Candy Kingdom
-- Mirrivo Productions short films
-
 ## Focus
 
 Android, backend engineering, cybersecurity, reverse engineering, game development.
