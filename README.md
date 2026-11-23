@@ -2,7 +2,7 @@
 
 # Bakr Fayez
 
-Security researcher and senior backend engineer. Founder of Nirous Labs and AhlanHost.
+Security Researcher and Senior Backend Engineer. Founder of Nirous Labs and AhlanHost.
 
 [![Website](https://img.shields.io/badge/Website-bakrfayez.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bakrfayez.com)
 [![Telegram](https://img.shields.io/badge/Telegram-BakrFayez-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BakrFayez)
