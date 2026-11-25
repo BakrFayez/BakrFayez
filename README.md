@@ -1,27 +1,16 @@
-![Bakr Fayez](assets/banner.png)
-
 # Bakr Fayez
 
-Security Researcher and Senior Backend Engineer. Founder of Nirous Labs and AhlanHost.
+**Security Researcher · Senior Backend Engineer**
 
-[![Website](https://img.shields.io/badge/Website-bakrfayez.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bakrfayez.com)
-[![Telegram](https://img.shields.io/badge/Telegram-BakrFayez-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BakrFayez)
-[![GitHub](https://img.shields.io/badge/GitHub-BakrFayez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BakrFayez)
+Founder of Nirous Labs and AhlanHost.
 
-## Tech stack
+I design and build secure backend systems, and develop original software and reverse-engineering tooling.
 
-[![Tech Stack](https://skillicons.dev/icons?i=java,kotlin,py,js,ts,php,laravel,cs,cpp,c,cmake,html,css,nodejs,dotnet,mysql,sqlite,androidstudio,godot,blender,threejs,vite,git,github,linux,bash,regex,vscode&perline=14)](https://skillicons.dev)
+## Featured project
 
-Reverse engineering: Ghidra · Frida · jadx · apktool · bundletool
+**[NAR — Nirous Android Reversing](https://github.com/BakrFayez/nar-skill)**
+AI agent skill for Android APK reverse engineering — all apps and games.
 
-## Featured
+## Contact
 
-**[NAR Skill](https://github.com/BakrFayez/nar-skill)**. An AI agent skill for Android APK reverse engineering, built for all apps and games.
-
-## Focus
-
-Android, backend engineering, cybersecurity, reverse engineering, game development.
-
-## Currently
-
-Building Nirous Download Manager (NDM) and growing the NAR skill.
+[bakrfayez.com](https://bakrfayez.com) · [Telegram](https://t.me/BakrFayez)
